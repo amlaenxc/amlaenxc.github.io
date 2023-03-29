@@ -1,5 +1,7 @@
-# amlaenxc.github.io
-title: "Alex Manchester"
+# Alex Manchester
+
+## Alex Manchester
+
 Under construction
 
 I am a fourth-year graduate student in the mat department at Rice University. I am interested in knot concordance and 4-dimensional manifolds, and am working with Prof. Shelly Harvey.
