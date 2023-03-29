@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a fourth-year graduate student in the math department at Rice University. I am interested in concordance and 4-dimensional manifolds, and am working with Prof. Shelly Harvey.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I received a B.S. in mathematics with departmental honors from the University of Chicago in 2019.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I have also been involved in the Hatch Youth program at the Montrose Center, an after-school program providing tutoring and social activities aimed at LGBTQ youth.
