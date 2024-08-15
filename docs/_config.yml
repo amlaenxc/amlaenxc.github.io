@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Alex Manchester
+author: ----
 email: alexmanchester@stanford.edu
 description: Mathematics, Statistics, and Computational Sciences Librarian at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
