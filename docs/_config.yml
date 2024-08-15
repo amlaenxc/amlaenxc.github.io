@@ -20,12 +20,7 @@
 
 title: Alex Manchester
 email: alexmanchester@stanford.edu
-description: |
-  Alex Manchester
-  Mathematics, Statistics, and Computational Sciences Librarian
-  Robin Li and Melissa Ma Science Library
-  Sapp Center for Science Teaching and Learning
-  Stanford University
+description: Mathematics, Statistics, and Computational Sciences Librarian at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amlaenxc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  amlaenxc
