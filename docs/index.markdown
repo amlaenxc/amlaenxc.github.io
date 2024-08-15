@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+---
 
 I have recently started as the Mathematics, Statistics, and Computational Sciences Librarian at Stanford's Robin Li and Melissa Ma Science Library. I will add more information about my role here once I have settled in a bit more!
 
