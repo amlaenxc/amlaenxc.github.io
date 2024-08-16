@@ -32,8 +32,8 @@ I have also worked as the Mathematics Collection Development assistant at Rice's
 
 As a graduate student, I co-organized the following conferences:
 
-- Nearly Carbon Neutral Geometry and Topology Conference (2023, co-organizer of the concordance section)
-- Log cabin conference on concordance and knotted surfaces (2023)
+- Nearly Carbon Neutral Geometry and Topology Conference (2023, co-organizer of the concordance section, virtual)
+- Log cabin conference on concordance and knotted surfaces, Sedona (2023)
 
 I also gave invited talks in the following venues:
 
