@@ -5,7 +5,17 @@
 layout: home
 ---
 
-<img src="assets/Headshot.jpg" alt="headshot" align="left" width="250" hspace="30">
+<style>
+  figure {
+    float: left;
+    margin: 0 50px 50px 0;
+  }
+</style>
+
+<figure>
+  <img src="assets/Headshot.jpg" alt="headshot" width="250">
+  <figcaption>Photo by Jeff Fitlow</figcaption>
+</figure>
 
 I have recently started as the Mathematics, Statistics, and Computational Sciences Librarian at Stanford's Robin Li and Melissa Ma Science Library, located in the Sapp Center for Science Teaching and Learning, aka ``Old Chem''. I will add more information about my role here once I have settled in a bit more!
 
