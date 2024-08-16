@@ -29,3 +29,18 @@ Preprints (both submitted for publication):
 I have also worked as the Mathematics Collection Development assistant at Rice's Fondren Library. I assisted with the selection and acquisition of new books, as well as the weeding of of damaged and outdated books in the collection. Additionally, I contributed to our online research guides, particularly the guides on math and AI, and focusing on the history of math and the relationship between AI and accessibility. I also helped to run events introducing students to the university's Overleaf subscription.
 
 ---
+
+As a graduate student, I co-organized the following conferences:
+
+- Nearly Carbon Neutral Geometry and Topology Conference (2023, co-organizer of the concordance section)
+- Log cabin conference on concordance and knotted surfaces (2023)
+
+I also gave invited talks in the following venues:
+
+- Low-Dimensional Topology conference at the Indian Institute of Science Education and Research, Pune (2023)
+- Low-Dimensional Topology Seminar at the Max Planck Institute for Mathematics, Bonn (2023)
+- Centre Interuniversitaire de Recherches en Ge&#769;ome&#769;trie et Topologie Junior, Universite&#769; du Que&#769;bec a&#768; Montre&#769;al (2023, virtual)
+- Joint Mathematics Meeting, Boston (2023)
+- Geometric Topology Grad and Postdoc Seminar (2022, virtual)
+- AMS Fall Western Sectional, Salt Lake City (2022)
+
