@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Manchester
+title: Alex Manchester (they/them)
 author: ----
 email: alexmanchester@stanford.edu
 description: Mathematics, Statistics, and Computational Sciences Librarian at Stanford University
