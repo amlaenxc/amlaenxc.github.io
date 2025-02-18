@@ -58,7 +58,7 @@ I have also worked as the Mathematics Collection Development assistant at Rice's
 ---
 <br>
 
-As a librarian, I have been to the 2024 Special Libraries Association (SLA) conference in Kingston, Rhode Island, and I plan to go to the 2025 Joint Mathematics Meetings in Seattle, Washington, and to the 2025 SLA conference in Pittsburgh, Pennsylvania.
+As a librarian, I have been to the 2024 Special Libraries Association (SLA) conference in Kingston, Rhode Island, and the 2025 Joint Mathematics Meetings in Seattle, Washington. And, I plan to go to the 2025 SLA conference in Pittsburgh, Pennsylvania.
 
 As a graduate student, I co-organized the following conferences:
 
